@@ -20,7 +20,7 @@
 
 ## Skills
 
-<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center' space-between='100px'>
+<pre><code><div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;'>
     <img src='./img/c-svgrepo-com.svg' width='30px'>
     <img src='./img/css-3-svgrepo-com.svg' width='30px'>
     <img src='./img/html-svgrepo-com.svg' width='30px'>
@@ -35,5 +35,5 @@
     <img src='./img/tensorflow-svgrepo-com.svg' width='30px'>
     <img src='./img/latex-svgrepo-com.svg' width='30px'>
     <img src='./img/git-svgrepo-com.svg' width='30px'>
-</div>
+</div></pre>
 
