@@ -12,7 +12,7 @@
 </label>
 
 <div>
-    <button style='display: flex; align-items: center; gap: 5px; padding: 0px'>
+    <button display='flex' align='center'>
         <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
         Instagram
     </button>
@@ -20,7 +20,7 @@
 
 ## Skills
 
-<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;'>
+<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center'>
     <img src='./img/c-svgrepo-com.svg' width='30px'>
     <img src='./img/css-3-svgrepo-com.svg' width='30px'>
     <img src='./img/html-svgrepo-com.svg' width='30px'>
