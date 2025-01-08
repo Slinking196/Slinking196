@@ -20,7 +20,7 @@
 
 ## Skills
 
-<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center' gap='100px'>
+<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center' space-between='100px'>
     <img src='./img/c-svgrepo-com.svg' width='30px'>
     <img src='./img/css-3-svgrepo-com.svg' width='30px'>
     <img src='./img/html-svgrepo-com.svg' width='30px'>
