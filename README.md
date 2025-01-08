@@ -12,15 +12,15 @@
 </label>
 
 <div>
-    <button display='flex' align='center'>
-        <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
+    <a href="https://www.instagram.com/maty_bugueno_196/">
+        <img src='./img/instagram-1-svgrepo-com.svg' width='30px' justify='center'>
         Instagram
-    </button>
+    </a>
 </div>
 
 ## Skills
 
-<pre><code><div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;'>
+<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center'>
     <img src='./img/c-svgrepo-com.svg' width='30px'>
     <img src='./img/css-3-svgrepo-com.svg' width='30px'>
     <img src='./img/html-svgrepo-com.svg' width='30px'>
@@ -35,5 +35,5 @@
     <img src='./img/tensorflow-svgrepo-com.svg' width='30px'>
     <img src='./img/latex-svgrepo-com.svg' width='30px'>
     <img src='./img/git-svgrepo-com.svg' width='30px'>
-</div></pre>
+</div>
 
