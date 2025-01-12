@@ -13,27 +13,27 @@
 
 <div>
     <a href="https://www.instagram.com/maty_bugueno_196/">
-        <img src='./img/instagram-1-svgrepo-com.svg' width='30px' justify='center'>
+        <img src='./img/instagram-1-svgrepo-com.svg' width='30px' justify-content-center>
         Instagram
     </a>
 </div>
 
 ## Skills
 
-<div style='display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;' align='center'>
-    <img src='./img/c-svgrepo-com.svg' width='30px'>
-    <img src='./img/css-3-svgrepo-com.svg' width='30px'>
-    <img src='./img/html-svgrepo-com.svg' width='30px'>
-    <img src='./img/ionic-svgrepo-com.svg' width='50px'>
-    <img src='./img/java-svgrepo-com.svg' width='30px'>
-    <img src='./img/jupyter-svgrepo-com.svg' width='30px'>
-    <img src='./img/linux-svgrepo-com.svg' width='30px'>
-    <img src='./img/mongodb-svgrepo-com.svg' width='30px'>
-    <img src='./img/python-svgrepo-com.svg' width='30px'>
-    <img src='./img/react-svgrepo-com.svg' width='30px'>
-    <img src='./img/sql-database-sql-azure-svgrepo-com.svg' width='30px'>
-    <img src='./img/tensorflow-svgrepo-com.svg' width='30px'>
-    <img src='./img/latex-svgrepo-com.svg' width='30px'>
-    <img src='./img/git-svgrepo-com.svg' width='30px'>
+<div align='center'>
+    <img src='./img/c-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/css-3-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/html-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/ionic-svgrepo-com.svg' width='50px' hspace='10'>
+    <img src='./img/java-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/jupyter-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/linux-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/mongodb-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/python-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/react-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/sql-database-sql-azure-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/tensorflow-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/latex-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/git-svgrepo-com.svg' width='30px' hspace='10'>
 </div>
 
