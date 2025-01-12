@@ -21,7 +21,7 @@
 ## Skills
 
 <div align='center'>
-    <img src='./img/c-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/c-svgrepo-com.svg' width='30px' hspace='100'>
     <img src='./img/css-3-svgrepo-com.svg' width='30px' hspace='10'>
     <img src='./img/html-svgrepo-com.svg' width='30px' hspace='10'>
     <img src='./img/ionic-svgrepo-com.svg' width='50px' hspace='10'>
