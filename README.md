@@ -11,19 +11,23 @@
     I am a technology enthusiast, and my favorite areas so far are Deep Learning, Cybersecurity, and Software Engineering. My goal someday is to create an AI capable of mimicking human emotions and to see how close we can get to creating an AI that resembles a human. It's something I'm passionate about, and little by little, I will start working on projects related to these topics.
 </label>
 
-<div align='center' style='display: flex; justify-content: center; gap: 20px;'>
-    <div>
-        <a href="https://www.instagram.com/maty_bugueno_196/" style="text-decoration: none;">
-            <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
-            <br>Instagram
-        </a>
-    </div>
-    <div>
-        <a>
-            <img src='./img/linkedin-svgrepo-com.svg' width='30px'>
-            <br>Linkedin
-        </a>
-    </div>
+<div align='center'>
+    <table>
+        <tr>
+            <td align='center'>
+                <a href="https://www.instagram.com/maty_bugueno_196/" style="text-decoration: none;">
+                    <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
+                    <br>Instagram
+                </a>
+            </td>
+            <td align='center'>
+                <a>
+                    <img src='./img/linkedin-svgrepo-com.svg' width='30px'>
+                    <br>Linkedin
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## Skills
