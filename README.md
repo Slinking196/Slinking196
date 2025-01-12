@@ -11,29 +11,37 @@
     I am a technology enthusiast, and my favorite areas so far are Deep Learning, Cybersecurity, and Software Engineering. My goal someday is to create an AI capable of mimicking human emotions and to see how close we can get to creating an AI that resembles a human. It's something I'm passionate about, and little by little, I will start working on projects related to these topics.
 </label>
 
-<div>
-    <a href="https://www.instagram.com/maty_bugueno_196/">
-        <img src='./img/instagram-1-svgrepo-com.svg' width='30px' justify-content-center>
-        Instagram
-    </a>
+<div align='center' style='display: flex; justify-content: center; gap: 20px;'>
+    <div>
+        <a href="https://www.instagram.com/maty_bugueno_196/" style="text-decoration: none;">
+            <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
+            <br>Instagram
+        </a>
+    </div>
+    <div>
+        <a>
+            <img src='./img/linkedin-svgrepo-com.svg' width='30px'>
+            <br>Linkedin
+        </a>
+    </div>
 </div>
 
 ## Skills
 
 <div align='center'>
-    <img src='./img/c-svgrepo-com.svg' width='30px' hspace='100'>
-    <img src='./img/css-3-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/html-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/ionic-svgrepo-com.svg' width='50px' hspace='10'>
-    <img src='./img/java-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/jupyter-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/linux-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/mongodb-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/python-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/react-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/sql-database-sql-azure-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/tensorflow-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/latex-svgrepo-com.svg' width='30px' hspace='10'>
-    <img src='./img/git-svgrepo-com.svg' width='30px' hspace='10'>
+    <img src='./img/c-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/css-3-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/html-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/ionic-svgrepo-com.svg' width='50px' hspace='20'>
+    <img src='./img/java-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/jupyter-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/linux-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/mongodb-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/python-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/react-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/sql-database-sql-azure-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/tensorflow-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/latex-svgrepo-com.svg' width='30px' hspace='20'>
+    <img src='./img/git-svgrepo-com.svg' width='30px' hspace='20'>
 </div>
 
