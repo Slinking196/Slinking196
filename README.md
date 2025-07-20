@@ -12,22 +12,18 @@
 </label>
 
 <div align='center'>
-    <table>
-        <tr>
-            <td align='center'>
-                <a href="https://www.instagram.com/maty_bugueno_196/" style="text-decoration: none;">
-                    <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
-                    <br>Instagram
-                </a>
-            </td>
-            <td align='center'>
-                <a>
-                    <img src='./img/linkedin-svgrepo-com.svg' width='30px'>
-                    <br>Linkedin
-                </a>
-            </td>
-        </tr>
-    </table>
+    <div> 
+        <a href="https://www.instagram.com/maty_bugueno_196/">
+            <img src='./img/instagram-1-svgrepo-com.svg' width='30px'>
+            <br>Instagram
+        </a>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/in/maty-bugueno-196/">
+            <img src='./img/linkedin-svgrepo-com.svg' width='30px'>
+            <br>Linkedin
+        </a>
+    </div>
 </div>
 
 ## Skills
